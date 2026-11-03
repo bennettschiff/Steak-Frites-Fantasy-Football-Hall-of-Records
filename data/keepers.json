@@ -2029,18 +2029,6 @@
       },
       {
         "team_id": 1,
-        "player_id": 4697745,
-        "player_name": "Tyler Loop",
-        "position": "K",
-        "pro_team": "BAL",
-        "base_round_this_year": null,
-        "origin": "free_agent",
-        "drafted_by_team_id": null,
-        "consecutive_keeper_years_through_current": 0,
-        "use_adp_next_year": false
-      },
-      {
-        "team_id": 1,
         "player_id": 3054850,
         "player_name": "Alvin Kamara",
         "position": "RB",

@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start --port 5190",
     "lint": "eslint",
+    "test:records": "node --experimental-strip-types --test tests/record-highlights.test.mjs",
     "test:ben": "node --experimental-strip-types --test tests/ben.test.mjs"
   },
   "dependencies": {

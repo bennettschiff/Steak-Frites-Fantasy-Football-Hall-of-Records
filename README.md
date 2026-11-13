@@ -33,6 +33,7 @@ cd web
 npm install
 npm run dev          # http://localhost:3000
 npm run build        # production build (also catches type errors)
+npm run test:records # record-watch ranking, recency, and season-completion checks
 npm run test:ben     # Node 22.6+: Ben record edge cases + reconciliation with Versus
 ```
 
@@ -106,6 +107,25 @@ only through committed data changes.
 
 The retired Newsroom product concept is preserved in
 `docs/newsroom-concept.md` for a possible future revival.
+
+### Record book maintenance
+
+`/records` opens on Single Week. Tabs are Single Week, Season (team totals),
+NFL Player Single Week, NFL Player Season, Playoffs, Championship, Seasons
+(MVP history and streaks), and Week 1. Existing `#nfl-players` links still work.
+The header lists this season's entries in the displayed all-time top three,
+newest week first, and scrolls internally after five entries. Cumulative season highs can qualify during the season; season lows and averages
+enter the header after the regular season ends, avoiding partial-season lows.
+
+`pipeline.players` builds regular-season player totals per player/year, combining
+fantasy-team changes and counting each player/week once. Overall totals include
+recorded starting and BE weeks; IR, unrostered weeks, unplayed matchups, and all
+weeks beyond that year's regular-season length are excluded. Coverage starts in
+2019 and excludes 2021. Game counts mean recorded lineup weeks (including byes
+and inactive weeks), not verified NFL appearances. Bench records show BE points
+and weeks; starter lows and best/worst PPG require six starts. Active-season
+leaderboards show totals to date. Rebuild with `python -m pipeline.players`;
+check aggregation with `python -m unittest discover -s tests -p 'test_player_records.py'`.
 
 ### Ben page maintenance
 

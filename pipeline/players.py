@@ -2,6 +2,7 @@
 
 Inputs: data/seasons/<year>.json (only years with box_scores → 2019+).
 Output: data/players.json with:
+  - regular_season_records: player-season totals, bench points, and starter averages
   - all_time_top_by_position: top single-week performances per position
   - season_top_by_position: top performances per season per position
   - winning_team_appearances: players most often on winning weekly rosters
@@ -108,6 +109,81 @@ def _enrich_perf(row: dict, season: dict, week: int, winners: dict) -> dict:
         "owner_names": info["owner_names"],
         "team_won": res.get("won"),
         "is_playoff": res.get("is_playoff", False),
+    }
+
+
+def regular_season_records(seasons: list[dict]) -> dict:
+    """Aggregate unique rostered player-weeks, across fantasy-team changes.
+
+    Overall points include starters and BE, not IR. Counts represent lineup
+    weeks (including bye/inactive zeroes), since NFL games played aren't supplied.
+    """
+    totals = []
+    for season in seasons:
+        if season["year"] in EXCLUDED_RECORD_YEARS:
+            continue
+        limit = season.get("settings", {}).get("reg_season_count", 0)
+        winners = _matchup_winners_for_season(season)
+        # Only finalized regular-season matchups; never infer regular season
+        # from a missing playoff flag (consolation and bye weeks can lack one).
+        valid = {
+            (week, team_id) for (week, team_id), result in winners.items()
+            if week <= limit and not result["is_playoff"]
+            and (result["team_score"] > 0 or
+                 winners.get((week, result["opp_team_id"]), {}).get("team_score", 0) > 0)
+        }
+        unique = {}
+        for week_key, rows in (season.get("box_scores") or {}).items():
+            week = int(week_key)
+            for row in rows:
+                if (week, row.get("team_id")) not in valid:
+                    continue
+                if not row.get("player_id") or not row.get("slot_position") or row["slot_position"] == "IR":
+                    continue
+                perf = _enrich_perf(row, season, week, winners)
+                key = (week, perf["player_id"])
+                # Duplicate rows must not double-count a player's score.
+                if key not in unique or perf["started"]:
+                    unique[key] = perf
+        grouped = {}
+        for perf in unique.values():
+            rec = grouped.setdefault(perf["player_id"], {
+                "year": season["year"], "player_id": perf["player_id"],
+                "player_name": perf["player_name"], "position": perf["position"],
+                "total_points": 0.0, "starting_points": 0.0, "bench_points": 0.0,
+                "games_rostered": 0, "games_started": 0, "games_benched": 0,
+                "fantasy_teams": [],
+            })
+            rec["total_points"] += perf["points"]
+            rec["games_rostered"] += 1
+            bucket = "starting_points" if perf["started"] else "bench_points"
+            games = "games_started" if perf["started"] else "games_benched"
+            rec[bucket] += perf["points"]
+            rec[games] += 1
+            if all(t["team_id"] != perf["team_id"] for t in rec["fantasy_teams"]):
+                rec["fantasy_teams"].append({k: perf[k] for k in ("team_id", "team_name", "owner_ids", "owner_names")})
+        for rec in grouped.values():
+            rec["ppg_started"] = round(rec["starting_points"] / rec["games_started"], 2) if rec["games_started"] else 0
+            for key in ("total_points", "starting_points", "bench_points"):
+                rec[key] = round(rec[key], 2)
+            totals.append(rec)
+
+    def rank(rows, metric, descending=True):
+        return sorted(rows, key=lambda r: (
+            -r[metric] if descending else r[metric], -r["year"], r["player_id"]
+        ))[:15]
+
+    qualified = [r for r in totals if r["games_started"] >= 6]
+    return {
+        "top_by_position": {
+            pos: rank([r for r in totals if r["position"] == pos], "total_points")
+            for pos in POSITION_ORDER
+        },
+        "most_bench_points": rank([r for r in totals if r["games_benched"]], "bench_points"),
+        "lowest_starting_points": rank(qualified, "starting_points", False),
+        "best_starter_ppg": rank(qualified, "ppg_started"),
+        "worst_starter_ppg": rank(qualified, "ppg_started", False),
+        "minimum_starts": 6,
     }
 
 
@@ -457,6 +533,7 @@ def compute() -> dict[str, Any]:
     }
 
     return {
+        "regular_season_records": regular_season_records(seasons),
         "all_time_top_by_position": all_time_top_by_position,
         "season_top_by_position": season_top_by_position,
         "winning_team_appearances": winning_team_appearances,

@@ -9719,5 +9719,4272 @@
   "coverage": {
     "first_year_with_box_scores": 2019,
     "last_year_with_box_scores": 2026
+  },
+  "regular_season_records": {
+    "top_by_position": {
+      "QB": [
+        {
+          "year": 2022,
+          "player_id": 4040715,
+          "player_name": "Jalen Hurts",
+          "position": "QB",
+          "total_points": 337.88,
+          "starting_points": 337.88,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 10,
+              "team_name": "Team Goldstein",
+              "owner_ids": [
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+              ],
+              "owner_names": [
+                "Ben Goldstein"
+              ]
+            }
+          ],
+          "ppg_started": 25.99
+        },
+        {
+          "year": 2019,
+          "player_id": 3916387,
+          "player_name": "Lamar Jackson",
+          "position": "QB",
+          "total_points": 333.98,
+          "starting_points": 333.98,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Running The Table",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 27.83
+        },
+        {
+          "year": 2022,
+          "player_id": 3139477,
+          "player_name": "Patrick Mahomes",
+          "position": "QB",
+          "total_points": 331.4,
+          "starting_points": 331.4,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tyreek Hill's Burner Account",
+              "owner_ids": [
+                "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+              ],
+              "owner_names": [
+                "Dylan Campbell"
+              ]
+            }
+          ],
+          "ppg_started": 25.49
+        },
+        {
+          "year": 2022,
+          "player_id": 3918298,
+          "player_name": "Josh Allen",
+          "position": "QB",
+          "total_points": 325.92,
+          "starting_points": 325.92,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 25.07
+        },
+        {
+          "year": 2024,
+          "player_id": 3916387,
+          "player_name": "Lamar Jackson",
+          "position": "QB",
+          "total_points": 324.4,
+          "starting_points": 324.4,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Jack, Robin, Harry and Sons",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 24.95
+        },
+        {
+          "year": 2023,
+          "player_id": 3918298,
+          "player_name": "Josh Allen",
+          "position": "QB",
+          "total_points": 321.28,
+          "starting_points": 321.28,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 24.71
+        },
+        {
+          "year": 2025,
+          "player_id": 3918298,
+          "player_name": "Josh Allen",
+          "position": "QB",
+          "total_points": 320.02,
+          "starting_points": 320.02,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "Lily Phillips ",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 24.62
+        },
+        {
+          "year": 2020,
+          "player_id": 3917315,
+          "player_name": "Kyler Murray",
+          "position": "QB",
+          "total_points": 317.98,
+          "starting_points": 300.56,
+          "bench_points": 17.42,
+          "games_rostered": 13,
+          "games_started": 11,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "JewJew Smith-Schiffler",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 27.32
+        },
+        {
+          "year": 2020,
+          "player_id": 3139477,
+          "player_name": "Patrick Mahomes",
+          "position": "QB",
+          "total_points": 312.7,
+          "starting_points": 292.46,
+          "bench_points": 20.24,
+          "games_rostered": 13,
+          "games_started": 11,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 26.59
+        },
+        {
+          "year": 2024,
+          "player_id": 3918298,
+          "player_name": "Josh Allen",
+          "position": "QB",
+          "total_points": 308.62,
+          "starting_points": 308.62,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "Just Happy To Be Here",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 23.74
+        },
+        {
+          "year": 2023,
+          "player_id": 4040715,
+          "player_name": "Jalen Hurts",
+          "position": "QB",
+          "total_points": 301.68,
+          "starting_points": 301.68,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 10,
+              "team_name": "Team Goldstein",
+              "owner_ids": [
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+              ],
+              "owner_names": [
+                "Ben Goldstein"
+              ]
+            }
+          ],
+          "ppg_started": 23.21
+        },
+        {
+          "year": 2022,
+          "player_id": 3915511,
+          "player_name": "Joe Burrow",
+          "position": "QB",
+          "total_points": 299.8,
+          "starting_points": 299.8,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 23.06
+        },
+        {
+          "year": 2020,
+          "player_id": 14881,
+          "player_name": "Russell Wilson",
+          "position": "QB",
+          "total_points": 298.56,
+          "starting_points": 298.56,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Process Trusters",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            }
+          ],
+          "ppg_started": 24.88
+        },
+        {
+          "year": 2020,
+          "player_id": 3918298,
+          "player_name": "Josh Allen",
+          "position": "QB",
+          "total_points": 296.02,
+          "starting_points": 296.02,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Team Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 24.67
+        },
+        {
+          "year": 2024,
+          "player_id": 3915511,
+          "player_name": "Joe Burrow",
+          "position": "QB",
+          "total_points": 290.04,
+          "starting_points": 224.18,
+          "bench_points": 65.86,
+          "games_rostered": 14,
+          "games_started": 10,
+          "games_benched": 4,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Jake and Seth",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer",
+                "Seth Taratoot"
+              ]
+            }
+          ],
+          "ppg_started": 22.42
+        }
+      ],
+      "RB": [
+        {
+          "year": 2019,
+          "player_id": 3117251,
+          "player_name": "Christian McCaffrey",
+          "position": "RB",
+          "total_points": 316.6,
+          "starting_points": 316.6,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Process Trusters",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            }
+          ],
+          "ppg_started": 26.38
+        },
+        {
+          "year": 2025,
+          "player_id": 4242335,
+          "player_name": "Jonathan Taylor",
+          "position": "RB",
+          "total_points": 291.5,
+          "starting_points": 291.5,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "E Bo Nix",
+              "owner_ids": [
+                "{93FE02E3-D523-4B1D-AC57-E31C8D235433}"
+              ],
+              "owner_names": [
+                "Jules Salkind"
+              ]
+            }
+          ],
+          "ppg_started": 22.42
+        },
+        {
+          "year": 2025,
+          "player_id": 3117251,
+          "player_name": "Christian McCaffrey",
+          "position": "RB",
+          "total_points": 286.0,
+          "starting_points": 286.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "E Bo Nix",
+              "owner_ids": [
+                "{93FE02E3-D523-4B1D-AC57-E31C8D235433}"
+              ],
+              "owner_names": [
+                "Jules Salkind"
+              ]
+            }
+          ],
+          "ppg_started": 22.0
+        },
+        {
+          "year": 2024,
+          "player_id": 3929630,
+          "player_name": "Saquon Barkley",
+          "position": "RB",
+          "total_points": 285.5,
+          "starting_points": 285.5,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Jake and Seth",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer",
+                "Seth Taratoot"
+              ]
+            }
+          ],
+          "ppg_started": 21.96
+        },
+        {
+          "year": 2023,
+          "player_id": 3117251,
+          "player_name": "Christian McCaffrey",
+          "position": "RB",
+          "total_points": 285.4,
+          "starting_points": 285.4,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 21.95
+        },
+        {
+          "year": 2025,
+          "player_id": 4429795,
+          "player_name": "Jahmyr Gibbs",
+          "position": "RB",
+          "total_points": 278.6,
+          "starting_points": 278.6,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Nude Egg",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 21.43
+        },
+        {
+          "year": 2022,
+          "player_id": 4047365,
+          "player_name": "Josh Jacobs",
+          "position": "RB",
+          "total_points": 260.8,
+          "starting_points": 228.8,
+          "bench_points": 32.0,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Ridley's  Bookie",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 19.07
+        },
+        {
+          "year": 2020,
+          "player_id": 3116593,
+          "player_name": "Dalvin Cook",
+          "position": "RB",
+          "total_points": 257.9,
+          "starting_points": 257.9,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 11,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 23.45
+        },
+        {
+          "year": 2024,
+          "player_id": 3043078,
+          "player_name": "Derrick Henry",
+          "position": "RB",
+          "total_points": 247.7,
+          "starting_points": 247.7,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tickle Pitts",
+              "owner_ids": [
+                "{93FE02E3-D523-4B1D-AC57-E31C8D235433}"
+              ],
+              "owner_names": [
+                "Jules Salkind"
+              ]
+            }
+          ],
+          "ppg_started": 19.05
+        },
+        {
+          "year": 2022,
+          "player_id": 3068267,
+          "player_name": "Austin Ekeler",
+          "position": "RB",
+          "total_points": 246.2,
+          "starting_points": 246.2,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 18.94
+        },
+        {
+          "year": 2020,
+          "player_id": 3054850,
+          "player_name": "Alvin Kamara",
+          "position": "RB",
+          "total_points": 245.8,
+          "starting_points": 245.8,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "JewJew Smith-Schiffler",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 20.48
+        },
+        {
+          "year": 2019,
+          "player_id": 3116593,
+          "player_name": "Dalvin Cook",
+          "position": "RB",
+          "total_points": 245.6,
+          "starting_points": 245.6,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 20.47
+        },
+        {
+          "year": 2025,
+          "player_id": 4429160,
+          "player_name": "De'Von Achane",
+          "position": "RB",
+          "total_points": 244.4,
+          "starting_points": 244.4,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "McConkey Kong",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 18.8
+        },
+        {
+          "year": 2025,
+          "player_id": 4430807,
+          "player_name": "Bijan Robinson",
+          "position": "RB",
+          "total_points": 236.3,
+          "starting_points": 236.3,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "2 Browns 2 Felonies",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 18.18
+        },
+        {
+          "year": 2022,
+          "player_id": 3117251,
+          "player_name": "Christian McCaffrey",
+          "position": "RB",
+          "total_points": 234.56,
+          "starting_points": 234.56,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Process Trusters",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            }
+          ],
+          "ppg_started": 18.04
+        }
+      ],
+      "WR": [
+        {
+          "year": 2023,
+          "player_id": 3116406,
+          "player_name": "Tyreek Hill",
+          "position": "WR",
+          "total_points": 274.2,
+          "starting_points": 274.2,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "Started From The Bottom",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 21.09
+        },
+        {
+          "year": 2024,
+          "player_id": 4362628,
+          "player_name": "Ja'Marr Chase",
+          "position": "WR",
+          "total_points": 270.9,
+          "starting_points": 270.9,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Nude Egg",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 20.84
+        },
+        {
+          "year": 2022,
+          "player_id": 4262921,
+          "player_name": "Justin Jefferson",
+          "position": "WR",
+          "total_points": 247.26,
+          "starting_points": 247.26,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Ridley's  Bookie",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 19.02
+        },
+        {
+          "year": 2025,
+          "player_id": 4430878,
+          "player_name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "total_points": 242.9,
+          "starting_points": 242.9,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Diggs in a Blankets",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 18.68
+        },
+        {
+          "year": 2022,
+          "player_id": 3116406,
+          "player_name": "Tyreek Hill",
+          "position": "WR",
+          "total_points": 241.0,
+          "starting_points": 241.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tyreek Hill's Burner Account",
+              "owner_ids": [
+                "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+              ],
+              "owner_names": [
+                "Dylan Campbell"
+              ]
+            }
+          ],
+          "ppg_started": 18.54
+        },
+        {
+          "year": 2020,
+          "player_id": 3116406,
+          "player_name": "Tyreek Hill",
+          "position": "WR",
+          "total_points": 237.9,
+          "starting_points": 237.9,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "Wraith Talk",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 19.82
+        },
+        {
+          "year": 2022,
+          "player_id": 16800,
+          "player_name": "Davante Adams",
+          "position": "WR",
+          "total_points": 237.6,
+          "starting_points": 237.6,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 10,
+              "team_name": "Team Goldstein",
+              "owner_ids": [
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+              ],
+              "owner_names": [
+                "Ben Goldstein"
+              ]
+            }
+          ],
+          "ppg_started": 18.28
+        },
+        {
+          "year": 2023,
+          "player_id": 4241389,
+          "player_name": "CeeDee Lamb",
+          "position": "WR",
+          "total_points": 235.7,
+          "starting_points": 235.7,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Shirt Brothers",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 18.13
+        },
+        {
+          "year": 2022,
+          "player_id": 2976212,
+          "player_name": "Stefon Diggs",
+          "position": "WR",
+          "total_points": 230.9,
+          "starting_points": 230.9,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Hambone Fake Namingtons",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 17.76
+        },
+        {
+          "year": 2023,
+          "player_id": 15818,
+          "player_name": "Keenan Allen",
+          "position": "WR",
+          "total_points": 224.86,
+          "starting_points": 224.86,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Olaver Your Face",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 17.3
+        },
+        {
+          "year": 2020,
+          "player_id": 16800,
+          "player_name": "Davante Adams",
+          "position": "WR",
+          "total_points": 220.9,
+          "starting_points": 220.9,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 10,
+          "games_benched": 3,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Team Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            },
+            {
+              "team_id": 2,
+              "team_name": "Process Trusters",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            }
+          ],
+          "ppg_started": 22.09
+        },
+        {
+          "year": 2019,
+          "player_id": 2976316,
+          "player_name": "Michael Thomas",
+          "position": "WR",
+          "total_points": 219.1,
+          "starting_points": 219.1,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "The Turbo Team",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 18.26
+        },
+        {
+          "year": 2025,
+          "player_id": 4426515,
+          "player_name": "Puka Nacua",
+          "position": "WR",
+          "total_points": 212.4,
+          "starting_points": 212.4,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "McConkey Kong",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 17.7
+        },
+        {
+          "year": 2023,
+          "player_id": 4047646,
+          "player_name": "A.J. Brown",
+          "position": "WR",
+          "total_points": 210.8,
+          "starting_points": 210.8,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "Bijan Mustard",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 16.22
+        },
+        {
+          "year": 2025,
+          "player_id": 4426354,
+          "player_name": "George Pickens",
+          "position": "WR",
+          "total_points": 206.9,
+          "starting_points": 206.9,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 10,
+              "team_name": "Team Goldstein",
+              "owner_ids": [
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}",
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+              ],
+              "owner_names": [
+                "Jordan Klein",
+                "Ben Goldstein"
+              ]
+            }
+          ],
+          "ppg_started": 15.92
+        }
+      ],
+      "TE": [
+        {
+          "year": 2022,
+          "player_id": 15847,
+          "player_name": "Travis Kelce",
+          "position": "TE",
+          "total_points": 216.9,
+          "starting_points": 216.9,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Ridley's  Bookie",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 16.68
+        },
+        {
+          "year": 2020,
+          "player_id": 15847,
+          "player_name": "Travis Kelce",
+          "position": "TE",
+          "total_points": 198.56,
+          "starting_points": 190.06,
+          "bench_points": 8.5,
+          "games_rostered": 13,
+          "games_started": 11,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "JewJew Smith-Schiffler",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 17.28
+        },
+        {
+          "year": 2025,
+          "player_id": 4361307,
+          "player_name": "Trey McBride",
+          "position": "TE",
+          "total_points": 188.2,
+          "starting_points": 188.2,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Diggs in a Blankets",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 14.48
+        },
+        {
+          "year": 2024,
+          "player_id": 4432665,
+          "player_name": "Brock Bowers",
+          "position": "TE",
+          "total_points": 162.2,
+          "starting_points": 162.2,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "CeeDeez Nuts",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 12.48
+        },
+        {
+          "year": 2023,
+          "player_id": 15847,
+          "player_name": "Travis Kelce",
+          "position": "TE",
+          "total_points": 157.6,
+          "starting_points": 157.6,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Olaver Your Face",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 13.13
+        },
+        {
+          "year": 2023,
+          "player_id": 4036133,
+          "player_name": "T.J. Hockenson",
+          "position": "TE",
+          "total_points": 154.4,
+          "starting_points": 154.4,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "Bijan Mustard",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 11.88
+        },
+        {
+          "year": 2020,
+          "player_id": 2576925,
+          "player_name": "Darren Waller",
+          "position": "TE",
+          "total_points": 152.7,
+          "starting_points": 152.7,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "Wraith Talk",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 12.72
+        },
+        {
+          "year": 2019,
+          "player_id": 15847,
+          "player_name": "Travis Kelce",
+          "position": "TE",
+          "total_points": 150.3,
+          "starting_points": 150.3,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Team Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 12.53
+        },
+        {
+          "year": 2023,
+          "player_id": 3040151,
+          "player_name": "George Kittle",
+          "position": "TE",
+          "total_points": 143.8,
+          "starting_points": 143.8,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 11.06
+        },
+        {
+          "year": 2024,
+          "player_id": 3040151,
+          "player_name": "George Kittle",
+          "position": "TE",
+          "total_points": 138.8,
+          "starting_points": 138.8,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 10,
+          "games_benched": 3,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Jack, Robin, Harry and Sons",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 13.88
+        },
+        {
+          "year": 2024,
+          "player_id": 4361307,
+          "player_name": "Trey McBride",
+          "position": "TE",
+          "total_points": 137.3,
+          "starting_points": 137.3,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 11.44
+        },
+        {
+          "year": 2023,
+          "player_id": 4430027,
+          "player_name": "Sam LaPorta",
+          "position": "TE",
+          "total_points": 137.2,
+          "starting_points": 137.2,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Shirt Brothers",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 11.43
+        },
+        {
+          "year": 2025,
+          "player_id": 15847,
+          "player_name": "Travis Kelce",
+          "position": "TE",
+          "total_points": 134.8,
+          "starting_points": 134.8,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 10,
+              "team_name": "Team Goldstein",
+              "owner_ids": [
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}",
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+              ],
+              "owner_names": [
+                "Jordan Klein",
+                "Ben Goldstein"
+              ]
+            }
+          ],
+          "ppg_started": 10.37
+        },
+        {
+          "year": 2025,
+          "player_id": 4431459,
+          "player_name": "Tyler Warren",
+          "position": "TE",
+          "total_points": 130.7,
+          "starting_points": 119.3,
+          "bench_points": 11.4,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            },
+            {
+              "team_id": 1,
+              "team_name": "Lily Phillips ",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 9.94
+        },
+        {
+          "year": 2022,
+          "player_id": 3116365,
+          "player_name": "Mark Andrews",
+          "position": "TE",
+          "total_points": 128.9,
+          "starting_points": 128.9,
+          "bench_points": 0.0,
+          "games_rostered": 12,
+          "games_started": 12,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 10.74
+        }
+      ],
+      "K": [
+        {
+          "year": 2025,
+          "player_id": 3953687,
+          "player_name": "Brandon Aubrey",
+          "position": "K",
+          "total_points": 145.0,
+          "starting_points": 145.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Diggs in a Blankets",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 11.15
+        },
+        {
+          "year": 2024,
+          "player_id": 2971573,
+          "player_name": "Ka'imi Fairbairn",
+          "position": "K",
+          "total_points": 145.0,
+          "starting_points": 145.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "Just Happy To Be Here",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 11.15
+        },
+        {
+          "year": 2024,
+          "player_id": 3953687,
+          "player_name": "Brandon Aubrey",
+          "position": "K",
+          "total_points": 137.0,
+          "starting_points": 137.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Stroud Boys",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 10.54
+        },
+        {
+          "year": 2022,
+          "player_id": 15683,
+          "player_name": "Justin Tucker",
+          "position": "K",
+          "total_points": 126.0,
+          "starting_points": 126.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 9.69
+        },
+        {
+          "year": 2022,
+          "player_id": 3051909,
+          "player_name": "Daniel Carlson",
+          "position": "K",
+          "total_points": 126.0,
+          "starting_points": 126.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Hambone Fake Namingtons",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 9.69
+        },
+        {
+          "year": 2022,
+          "player_id": 3917232,
+          "player_name": "Tyler Bass",
+          "position": "K",
+          "total_points": 126.0,
+          "starting_points": 126.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 14,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tyreek Hill's Burner Account",
+              "owner_ids": [
+                "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+              ],
+              "owner_names": [
+                "Dylan Campbell"
+              ]
+            }
+          ],
+          "ppg_started": 9.0
+        },
+        {
+          "year": 2023,
+          "player_id": 3050478,
+          "player_name": "Jake Elliott",
+          "position": "K",
+          "total_points": 121.0,
+          "starting_points": 109.0,
+          "bench_points": 12.0,
+          "games_rostered": 14,
+          "games_started": 11,
+          "games_benched": 3,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tyreek Hill is Dead to Me Now",
+              "owner_ids": [
+                "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+              ],
+              "owner_names": [
+                "Dylan Campbell"
+              ]
+            }
+          ],
+          "ppg_started": 9.91
+        },
+        {
+          "year": 2019,
+          "player_id": 2985659,
+          "player_name": "Wil Lutz",
+          "position": "K",
+          "total_points": 121.0,
+          "starting_points": 121.0,
+          "bench_points": 0.0,
+          "games_rostered": 12,
+          "games_started": 12,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "Wraith Talk",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            },
+            {
+              "team_id": 12,
+              "team_name": "Where is Tyreeks Neck",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 10.08
+        },
+        {
+          "year": 2019,
+          "player_id": 3055899,
+          "player_name": "Harrison Butker",
+          "position": "K",
+          "total_points": 121.0,
+          "starting_points": 121.0,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "The Turbo Team",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 10.08
+        },
+        {
+          "year": 2025,
+          "player_id": 4362081,
+          "player_name": "Cameron Dicker",
+          "position": "K",
+          "total_points": 119.0,
+          "starting_points": 119.0,
+          "bench_points": 0.0,
+          "games_rostered": 12,
+          "games_started": 12,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Jake and Seth",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer",
+                "Seth Taratoot"
+              ]
+            },
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 9.92
+        },
+        {
+          "year": 2019,
+          "player_id": 15683,
+          "player_name": "Justin Tucker",
+          "position": "K",
+          "total_points": 118.0,
+          "starting_points": 118.0,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 9.83
+        },
+        {
+          "year": 2024,
+          "player_id": 4362081,
+          "player_name": "Cameron Dicker",
+          "position": "K",
+          "total_points": 117.0,
+          "starting_points": 117.0,
+          "bench_points": 0.0,
+          "games_rostered": 12,
+          "games_started": 12,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Jake and Seth",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer",
+                "Seth Taratoot"
+              ]
+            },
+            {
+              "team_id": 5,
+              "team_name": "CeeDeez Nuts",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 9.75
+        },
+        {
+          "year": 2022,
+          "player_id": 10621,
+          "player_name": "Nick Folk",
+          "position": "K",
+          "total_points": 117.0,
+          "starting_points": 115.0,
+          "bench_points": 2.0,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "I Am Inevitable",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 9.58
+        },
+        {
+          "year": 2025,
+          "player_id": 3150744,
+          "player_name": "Chase McLaughlin",
+          "position": "K",
+          "total_points": 116.0,
+          "starting_points": 116.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "McConkey Kong",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 8.92
+        },
+        {
+          "year": 2023,
+          "player_id": 15683,
+          "player_name": "Justin Tucker",
+          "position": "K",
+          "total_points": 115.0,
+          "starting_points": 115.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 1,
+              "team_name": "Started From The Bottom",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            }
+          ],
+          "ppg_started": 8.85
+        }
+      ],
+      "D/ST": [
+        {
+          "year": 2019,
+          "player_id": -16017,
+          "player_name": "Patriots D/ST",
+          "position": "D/ST",
+          "total_points": 191.0,
+          "starting_points": 150.0,
+          "bench_points": 41.0,
+          "games_rostered": 13,
+          "games_started": 8,
+          "games_benched": 5,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Team Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 18.75
+        },
+        {
+          "year": 2023,
+          "player_id": -16006,
+          "player_name": "Cowboys D/ST",
+          "position": "D/ST",
+          "total_points": 153.0,
+          "starting_points": 120.0,
+          "bench_points": 33.0,
+          "games_rostered": 14,
+          "games_started": 8,
+          "games_benched": 6,
+          "fantasy_teams": [
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            }
+          ],
+          "ppg_started": 15.0
+        },
+        {
+          "year": 2025,
+          "player_id": -16026,
+          "player_name": "Seahawks D/ST",
+          "position": "D/ST",
+          "total_points": 136.0,
+          "starting_points": 136.0,
+          "bench_points": 0.0,
+          "games_rostered": 12,
+          "games_started": 12,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Diggs in a Blankets",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            },
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            },
+            {
+              "team_id": 6,
+              "team_name": "Nude Egg",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 11.33
+        },
+        {
+          "year": 2020,
+          "player_id": -16023,
+          "player_name": "Steelers D/ST",
+          "position": "D/ST",
+          "total_points": 127.0,
+          "starting_points": 127.0,
+          "bench_points": 0.0,
+          "games_rostered": 13,
+          "games_started": 12,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "Wraith Talk",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 10.58
+        },
+        {
+          "year": 2024,
+          "player_id": -16023,
+          "player_name": "Steelers D/ST",
+          "position": "D/ST",
+          "total_points": 126.0,
+          "starting_points": 117.0,
+          "bench_points": 9.0,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 5,
+              "team_name": "CeeDeez Nuts",
+              "owner_ids": [
+                "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+              ],
+              "owner_names": [
+                "Jonathan Coopersmith"
+              ]
+            }
+          ],
+          "ppg_started": 9.75
+        },
+        {
+          "year": 2019,
+          "player_id": -16025,
+          "player_name": "49ers D/ST",
+          "position": "D/ST",
+          "total_points": 125.0,
+          "starting_points": 107.0,
+          "bench_points": 18.0,
+          "games_rostered": 10,
+          "games_started": 8,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            },
+            {
+              "team_id": 6,
+              "team_name": "The Turbo Team",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            }
+          ],
+          "ppg_started": 13.38
+        },
+        {
+          "year": 2023,
+          "player_id": -16033,
+          "player_name": "Ravens D/ST",
+          "position": "D/ST",
+          "total_points": 119.0,
+          "starting_points": 103.0,
+          "bench_points": 16.0,
+          "games_rostered": 11,
+          "games_started": 10,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 12,
+              "team_name": "Pls Trade Me Thick Necks",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            },
+            {
+              "team_id": 7,
+              "team_name": "Los Peloteros De Katz",
+              "owner_ids": [
+                "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+              ],
+              "owner_names": [
+                "Ben Katz"
+              ]
+            },
+            {
+              "team_id": 2,
+              "team_name": "Traded James Harden!",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            }
+          ],
+          "ppg_started": 10.3
+        },
+        {
+          "year": 2025,
+          "player_id": -16034,
+          "player_name": "Texans D/ST",
+          "position": "D/ST",
+          "total_points": 117.0,
+          "starting_points": 99.0,
+          "bench_points": 18.0,
+          "games_rostered": 12,
+          "games_started": 10,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "E Bo Nix",
+              "owner_ids": [
+                "{93FE02E3-D523-4B1D-AC57-E31C8D235433}"
+              ],
+              "owner_names": [
+                "Jules Salkind"
+              ]
+            }
+          ],
+          "ppg_started": 9.9
+        },
+        {
+          "year": 2022,
+          "player_id": -16002,
+          "player_name": "Bills D/ST",
+          "position": "D/ST",
+          "total_points": 110.0,
+          "starting_points": 110.0,
+          "bench_points": 0.0,
+          "games_rostered": 14,
+          "games_started": 13,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tyreek Hill's Burner Account",
+              "owner_ids": [
+                "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+              ],
+              "owner_names": [
+                "Dylan Campbell"
+              ]
+            }
+          ],
+          "ppg_started": 8.46
+        },
+        {
+          "year": 2023,
+          "player_id": -16025,
+          "player_name": "49ers D/ST",
+          "position": "D/ST",
+          "total_points": 108.0,
+          "starting_points": 89.0,
+          "bench_points": 19.0,
+          "games_rostered": 14,
+          "games_started": 12,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 11,
+              "team_name": "Tyreek Hill is Dead to Me Now",
+              "owner_ids": [
+                "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+              ],
+              "owner_names": [
+                "Dylan Campbell"
+              ]
+            }
+          ],
+          "ppg_started": 7.42
+        },
+        {
+          "year": 2025,
+          "player_id": -16017,
+          "player_name": "Patriots D/ST",
+          "position": "D/ST",
+          "total_points": 105.0,
+          "starting_points": 97.0,
+          "bench_points": 8.0,
+          "games_rostered": 13,
+          "games_started": 10,
+          "games_benched": 3,
+          "fantasy_teams": [
+            {
+              "team_id": 6,
+              "team_name": "Nude Egg",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            },
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 9.7
+        },
+        {
+          "year": 2023,
+          "player_id": -16015,
+          "player_name": "Dolphins D/ST",
+          "position": "D/ST",
+          "total_points": 104.0,
+          "starting_points": 91.0,
+          "bench_points": 13.0,
+          "games_rostered": 10,
+          "games_started": 8,
+          "games_benched": 2,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Traded James Harden!",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            }
+          ],
+          "ppg_started": 11.38
+        },
+        {
+          "year": 2023,
+          "player_id": -16002,
+          "player_name": "Bills D/ST",
+          "position": "D/ST",
+          "total_points": 101.0,
+          "starting_points": 101.0,
+          "bench_points": 0.0,
+          "games_rostered": 11,
+          "games_started": 11,
+          "games_benched": 0,
+          "fantasy_teams": [
+            {
+              "team_id": 10,
+              "team_name": "Team Goldstein",
+              "owner_ids": [
+                "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+              ],
+              "owner_names": [
+                "Ben Goldstein"
+              ]
+            },
+            {
+              "team_id": 1,
+              "team_name": "Started From The Bottom",
+              "owner_ids": [
+                "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+              ],
+              "owner_names": [
+                "Bennett Schiff"
+              ]
+            },
+            {
+              "team_id": 9,
+              "team_name": "Saquads squad  Ship",
+              "owner_ids": [
+                "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+              ],
+              "owner_names": [
+                "Adam Heckelman"
+              ]
+            }
+          ],
+          "ppg_started": 9.18
+        },
+        {
+          "year": 2023,
+          "player_id": -16018,
+          "player_name": "Saints D/ST",
+          "position": "D/ST",
+          "total_points": 100.0,
+          "starting_points": 97.0,
+          "bench_points": 3.0,
+          "games_rostered": 14,
+          "games_started": 11,
+          "games_benched": 3,
+          "fantasy_teams": [
+            {
+              "team_id": 3,
+              "team_name": "Olaver Your Face",
+              "owner_ids": [
+                "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+              ],
+              "owner_names": [
+                "Stefan Lachkar"
+              ]
+            }
+          ],
+          "ppg_started": 8.82
+        },
+        {
+          "year": 2019,
+          "player_id": -16002,
+          "player_name": "Bills D/ST",
+          "position": "D/ST",
+          "total_points": 96.0,
+          "starting_points": 88.0,
+          "bench_points": 8.0,
+          "games_rostered": 11,
+          "games_started": 10,
+          "games_benched": 1,
+          "fantasy_teams": [
+            {
+              "team_id": 2,
+              "team_name": "Process Trusters",
+              "owner_ids": [
+                "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+              ],
+              "owner_names": [
+                "Jake Fischer"
+              ]
+            },
+            {
+              "team_id": 6,
+              "team_name": "The Turbo Team",
+              "owner_ids": [
+                "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+              ],
+              "owner_names": [
+                "Ben Wolbransky"
+              ]
+            },
+            {
+              "team_id": 12,
+              "team_name": "Where is Tyreeks Neck",
+              "owner_ids": [
+                "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+              ],
+              "owner_names": [
+                "Ryan Vader"
+              ]
+            }
+          ],
+          "ppg_started": 8.8
+        }
+      ]
+    },
+    "most_bench_points": [
+      {
+        "year": 2020,
+        "player_id": 8439,
+        "player_name": "Aaron Rodgers",
+        "position": "QB",
+        "total_points": 286.4,
+        "starting_points": 46.04,
+        "bench_points": 240.36,
+        "games_rostered": 13,
+        "games_started": 2,
+        "games_benched": 11,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "JewJew Smith-Schiffler",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 23.02
+      },
+      {
+        "year": 2020,
+        "player_id": 12483,
+        "player_name": "Matthew Stafford",
+        "position": "QB",
+        "total_points": 216.62,
+        "starting_points": 13.32,
+        "bench_points": 203.3,
+        "games_rostered": 13,
+        "games_started": 1,
+        "games_benched": 12,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 13.32
+      },
+      {
+        "year": 2020,
+        "player_id": 2573079,
+        "player_name": "Carson Wentz",
+        "position": "QB",
+        "total_points": 213.4,
+        "starting_points": 10.62,
+        "bench_points": 202.78,
+        "games_rostered": 13,
+        "games_started": 1,
+        "games_benched": 12,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "50 Feet  Of Crap",
+            "owner_ids": [
+              "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+            ],
+            "owner_names": [
+              "Dylan Campbell"
+            ]
+          }
+        ],
+        "ppg_started": 10.62
+      },
+      {
+        "year": 2019,
+        "player_id": 3046779,
+        "player_name": "Jared Goff",
+        "position": "QB",
+        "total_points": 180.56,
+        "starting_points": 6.22,
+        "bench_points": 174.34,
+        "games_rostered": 13,
+        "games_started": 1,
+        "games_benched": 12,
+        "fantasy_teams": [
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          }
+        ],
+        "ppg_started": 6.22
+      },
+      {
+        "year": 2020,
+        "player_id": 13994,
+        "player_name": "Cam Newton",
+        "position": "QB",
+        "total_points": 204.72,
+        "starting_points": 32.16,
+        "bench_points": 172.56,
+        "games_rostered": 12,
+        "games_started": 2,
+        "games_benched": 10,
+        "fantasy_teams": [
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          }
+        ],
+        "ppg_started": 16.08
+      },
+      {
+        "year": 2022,
+        "player_id": 16757,
+        "player_name": "Derek Carr",
+        "position": "QB",
+        "total_points": 203.48,
+        "starting_points": 33.82,
+        "bench_points": 169.66,
+        "games_rostered": 14,
+        "games_started": 2,
+        "games_benched": 12,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 16.91
+      },
+      {
+        "year": 2024,
+        "player_id": 3052587,
+        "player_name": "Baker Mayfield",
+        "position": "QB",
+        "total_points": 222.8,
+        "starting_points": 54.82,
+        "bench_points": 167.98,
+        "games_rostered": 12,
+        "games_started": 3,
+        "games_benched": 9,
+        "fantasy_teams": [
+          {
+            "team_id": 5,
+            "team_name": "CeeDeez Nuts",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          }
+        ],
+        "ppg_started": 18.27
+      },
+      {
+        "year": 2024,
+        "player_id": 4361741,
+        "player_name": "Brock Purdy",
+        "position": "QB",
+        "total_points": 219.48,
+        "starting_points": 56.02,
+        "bench_points": 163.46,
+        "games_rostered": 13,
+        "games_started": 3,
+        "games_benched": 10,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Jake and Seth",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer",
+              "Seth Taratoot"
+            ]
+          }
+        ],
+        "ppg_started": 18.67
+      },
+      {
+        "year": 2023,
+        "player_id": 4432577,
+        "player_name": "C.J. Stroud",
+        "position": "QB",
+        "total_points": 172.96,
+        "starting_points": 14.16,
+        "bench_points": 158.8,
+        "games_rostered": 10,
+        "games_started": 1,
+        "games_benched": 9,
+        "fantasy_teams": [
+          {
+            "team_id": 3,
+            "team_name": "Olaver Your Face",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          }
+        ],
+        "ppg_started": 14.16
+      },
+      {
+        "year": 2019,
+        "player_id": 16790,
+        "player_name": "Jarvis Landry",
+        "position": "WR",
+        "total_points": 155.4,
+        "starting_points": 9.0,
+        "bench_points": 146.4,
+        "games_rostered": 13,
+        "games_started": 1,
+        "games_benched": 12,
+        "fantasy_teams": [
+          {
+            "team_id": 6,
+            "team_name": "The Turbo Team",
+            "owner_ids": [
+              "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+            ],
+            "owner_names": [
+              "Ben Wolbransky"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Team Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          },
+          {
+            "team_id": 5,
+            "team_name": "Wraith Talk",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          }
+        ],
+        "ppg_started": 9.0
+      },
+      {
+        "year": 2022,
+        "player_id": 4360438,
+        "player_name": "Brandon Aiyuk",
+        "position": "WR",
+        "total_points": 145.2,
+        "starting_points": 11.4,
+        "bench_points": 133.8,
+        "games_rostered": 14,
+        "games_started": 1,
+        "games_benched": 13,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "I Am Inevitable",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 11.4
+      },
+      {
+        "year": 2023,
+        "player_id": 4035676,
+        "player_name": "Zack Moss",
+        "position": "RB",
+        "total_points": 142.3,
+        "starting_points": 9.2,
+        "bench_points": 133.1,
+        "games_rostered": 14,
+        "games_started": 2,
+        "games_benched": 12,
+        "fantasy_teams": [
+          {
+            "team_id": 6,
+            "team_name": "Shirt Brothers",
+            "owner_ids": [
+              "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+            ],
+            "owner_names": [
+              "Ben Wolbransky"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Traded James Harden!",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 4.6
+      },
+      {
+        "year": 2023,
+        "player_id": 15795,
+        "player_name": "DeAndre Hopkins",
+        "position": "WR",
+        "total_points": 155.2,
+        "starting_points": 25.0,
+        "bench_points": 130.2,
+        "games_rostered": 14,
+        "games_started": 4,
+        "games_benched": 10,
+        "fantasy_teams": [
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          }
+        ],
+        "ppg_started": 6.25
+      },
+      {
+        "year": 2019,
+        "player_id": 3917792,
+        "player_name": "Daniel Jones",
+        "position": "QB",
+        "total_points": 127.94,
+        "starting_points": 0.0,
+        "bench_points": 127.94,
+        "games_rostered": 9,
+        "games_started": 0,
+        "games_benched": 9,
+        "fantasy_teams": [
+          {
+            "team_id": 5,
+            "team_name": "Wraith Talk",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          },
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          }
+        ],
+        "ppg_started": 0
+      },
+      {
+        "year": 2023,
+        "player_id": 4361741,
+        "player_name": "Brock Purdy",
+        "position": "QB",
+        "total_points": 148.98,
+        "starting_points": 23.84,
+        "bench_points": 125.14,
+        "games_rostered": 7,
+        "games_started": 1,
+        "games_benched": 6,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "Pls Trade Me Thick Necks",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          },
+          {
+            "team_id": 11,
+            "team_name": "Tyreek Hill is Dead to Me Now",
+            "owner_ids": [
+              "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+            ],
+            "owner_names": [
+              "Dylan Campbell"
+            ]
+          }
+        ],
+        "ppg_started": 23.84
+      }
+    ],
+    "lowest_starting_points": [
+      {
+        "year": 2019,
+        "player_id": 3124084,
+        "player_name": "Joey Slye",
+        "position": "K",
+        "total_points": 28.0,
+        "starting_points": 28.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "Deshaun of The Dead",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 5,
+            "team_name": "Wraith Talk",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          }
+        ],
+        "ppg_started": 4.67
+      },
+      {
+        "year": 2025,
+        "player_id": 3116365,
+        "player_name": "Mark Andrews",
+        "position": "TE",
+        "total_points": 69.5,
+        "starting_points": 30.7,
+        "bench_points": 38.8,
+        "games_rostered": 12,
+        "games_started": 7,
+        "games_benched": 5,
+        "fantasy_teams": [
+          {
+            "team_id": 5,
+            "team_name": "McConkey Kong",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Jake and Seth",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer",
+              "Seth Taratoot"
+            ]
+          }
+        ],
+        "ppg_started": 4.39
+      },
+      {
+        "year": 2019,
+        "player_id": -16010,
+        "player_name": "Titans D/ST",
+        "position": "D/ST",
+        "total_points": 32.0,
+        "starting_points": 32.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "Deshaun of The Dead",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 5.33
+      },
+      {
+        "year": 2019,
+        "player_id": 9704,
+        "player_name": "Stephen Gostkowski",
+        "position": "K",
+        "total_points": 32.0,
+        "starting_points": 32.0,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 10,
+        "games_benched": 3,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "Finna Win This  Year Ya Diggs?",
+            "owner_ids": [
+              "{96349FBC-DBBD-4841-B49F-BCDBBD9841B6}"
+            ],
+            "owner_names": [
+              "Jeremy Isaacs"
+            ]
+          }
+        ],
+        "ppg_started": 3.2
+      },
+      {
+        "year": 2026,
+        "player_id": -16012,
+        "player_name": "Chiefs D/ST",
+        "position": "D/ST",
+        "total_points": 34.0,
+        "starting_points": 34.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 6,
+            "team_name": "Nude Egg",
+            "owner_ids": [
+              "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+            ],
+            "owner_names": [
+              "Ben Wolbransky"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          }
+        ],
+        "ppg_started": 5.67
+      },
+      {
+        "year": 2023,
+        "player_id": 4241372,
+        "player_name": "Marquise Brown",
+        "position": "WR",
+        "total_points": 109.2,
+        "starting_points": 34.0,
+        "bench_points": 75.2,
+        "games_rostered": 14,
+        "games_started": 6,
+        "games_benched": 8,
+        "fantasy_teams": [
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          },
+          {
+            "team_id": 1,
+            "team_name": "Started From The Bottom",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 5.67
+      },
+      {
+        "year": 2022,
+        "player_id": -16014,
+        "player_name": "Rams D/ST",
+        "position": "D/ST",
+        "total_points": 35.0,
+        "starting_points": 35.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          },
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          }
+        ],
+        "ppg_started": 5.83
+      },
+      {
+        "year": 2020,
+        "player_id": 3124084,
+        "player_name": "Joey Slye",
+        "position": "K",
+        "total_points": 35.0,
+        "starting_points": 35.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          }
+        ],
+        "ppg_started": 5.83
+      },
+      {
+        "year": 2022,
+        "player_id": 4360248,
+        "player_name": "Kyle Pitts",
+        "position": "TE",
+        "total_points": 61.6,
+        "starting_points": 35.7,
+        "bench_points": 25.9,
+        "games_rostered": 11,
+        "games_started": 8,
+        "games_benched": 3,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "I Am Inevitable",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 4.46
+      },
+      {
+        "year": 2025,
+        "player_id": 11122,
+        "player_name": "Matt Prater",
+        "position": "K",
+        "total_points": 36.0,
+        "starting_points": 36.0,
+        "bench_points": 0.0,
+        "games_rostered": 7,
+        "games_started": 7,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "2 Browns 2 Felonies",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          },
+          {
+            "team_id": 1,
+            "team_name": "Lily Phillips ",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 3,
+            "team_name": "Diggs in a Blankets",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          }
+        ],
+        "ppg_started": 5.14
+      },
+      {
+        "year": 2024,
+        "player_id": -16027,
+        "player_name": "Buccaneers D/ST",
+        "position": "D/ST",
+        "total_points": 37.0,
+        "starting_points": 37.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 3,
+            "team_name": "Stroud Boys",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          },
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          },
+          {
+            "team_id": 12,
+            "team_name": "Jack, Robin, Harry and Sons",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          }
+        ],
+        "ppg_started": 6.17
+      },
+      {
+        "year": 2025,
+        "player_id": 15818,
+        "player_name": "Keenan Allen",
+        "position": "WR",
+        "total_points": 119.9,
+        "starting_points": 37.3,
+        "bench_points": 82.6,
+        "games_rostered": 14,
+        "games_started": 7,
+        "games_benched": 7,
+        "fantasy_teams": [
+          {
+            "team_id": 3,
+            "team_name": "Diggs in a Blankets",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          }
+        ],
+        "ppg_started": 5.33
+      },
+      {
+        "year": 2026,
+        "player_id": -16014,
+        "player_name": "Rams D/ST",
+        "position": "D/ST",
+        "total_points": 48.0,
+        "starting_points": 38.0,
+        "bench_points": 10.0,
+        "games_rostered": 9,
+        "games_started": 7,
+        "games_benched": 2,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "Run CMC ft. Omarion",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          }
+        ],
+        "ppg_started": 5.43
+      },
+      {
+        "year": 2022,
+        "player_id": -16009,
+        "player_name": "Packers D/ST",
+        "position": "D/ST",
+        "total_points": 38.0,
+        "starting_points": 38.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          },
+          {
+            "team_id": 3,
+            "team_name": "Ridley's  Bookie",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          },
+          {
+            "team_id": 1,
+            "team_name": "I Am Inevitable",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 6.33
+      },
+      {
+        "year": 2020,
+        "player_id": -16025,
+        "player_name": "49ers D/ST",
+        "position": "D/ST",
+        "total_points": 39.0,
+        "starting_points": 39.0,
+        "bench_points": 0.0,
+        "games_rostered": 9,
+        "games_started": 9,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "50 Feet  Of Crap",
+            "owner_ids": [
+              "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+            ],
+            "owner_names": [
+              "Dylan Campbell"
+            ]
+          }
+        ],
+        "ppg_started": 4.33
+      }
+    ],
+    "best_starter_ppg": [
+      {
+        "year": 2019,
+        "player_id": 3916387,
+        "player_name": "Lamar Jackson",
+        "position": "QB",
+        "total_points": 333.98,
+        "starting_points": 333.98,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 12,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 3,
+            "team_name": "Running The Table",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          }
+        ],
+        "ppg_started": 27.83
+      },
+      {
+        "year": 2020,
+        "player_id": 3917315,
+        "player_name": "Kyler Murray",
+        "position": "QB",
+        "total_points": 317.98,
+        "starting_points": 300.56,
+        "bench_points": 17.42,
+        "games_rostered": 13,
+        "games_started": 11,
+        "games_benched": 2,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "JewJew Smith-Schiffler",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 27.32
+      },
+      {
+        "year": 2026,
+        "player_id": 3915511,
+        "player_name": "Joe Burrow",
+        "position": "QB",
+        "total_points": 205.14,
+        "starting_points": 188.96,
+        "bench_points": 16.18,
+        "games_rostered": 9,
+        "games_started": 7,
+        "games_benched": 2,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "We Did It, Joe!",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 26.99
+      },
+      {
+        "year": 2020,
+        "player_id": 3139477,
+        "player_name": "Patrick Mahomes",
+        "position": "QB",
+        "total_points": 312.7,
+        "starting_points": 292.46,
+        "bench_points": 20.24,
+        "games_rostered": 13,
+        "games_started": 11,
+        "games_benched": 2,
+        "fantasy_teams": [
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          }
+        ],
+        "ppg_started": 26.59
+      },
+      {
+        "year": 2019,
+        "player_id": 3117251,
+        "player_name": "Christian McCaffrey",
+        "position": "RB",
+        "total_points": 316.6,
+        "starting_points": 316.6,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 12,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 26.38
+      },
+      {
+        "year": 2022,
+        "player_id": 4040715,
+        "player_name": "Jalen Hurts",
+        "position": "QB",
+        "total_points": 337.88,
+        "starting_points": 337.88,
+        "bench_points": 0.0,
+        "games_rostered": 14,
+        "games_started": 13,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          }
+        ],
+        "ppg_started": 25.99
+      },
+      {
+        "year": 2026,
+        "player_id": 3918298,
+        "player_name": "Josh Allen",
+        "position": "QB",
+        "total_points": 206.18,
+        "starting_points": 206.18,
+        "bench_points": 0.0,
+        "games_rostered": 9,
+        "games_started": 8,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Jake and Seth",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer",
+              "Seth Taratoot"
+            ]
+          }
+        ],
+        "ppg_started": 25.77
+      },
+      {
+        "year": 2022,
+        "player_id": 3139477,
+        "player_name": "Patrick Mahomes",
+        "position": "QB",
+        "total_points": 331.4,
+        "starting_points": 331.4,
+        "bench_points": 0.0,
+        "games_rostered": 14,
+        "games_started": 13,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "Tyreek Hill's Burner Account",
+            "owner_ids": [
+              "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+            ],
+            "owner_names": [
+              "Dylan Campbell"
+            ]
+          }
+        ],
+        "ppg_started": 25.49
+      },
+      {
+        "year": 2022,
+        "player_id": 3918298,
+        "player_name": "Josh Allen",
+        "position": "QB",
+        "total_points": 325.92,
+        "starting_points": 325.92,
+        "bench_points": 0.0,
+        "games_rostered": 14,
+        "games_started": 13,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          }
+        ],
+        "ppg_started": 25.07
+      },
+      {
+        "year": 2024,
+        "player_id": 3916387,
+        "player_name": "Lamar Jackson",
+        "position": "QB",
+        "total_points": 324.4,
+        "starting_points": 324.4,
+        "bench_points": 0.0,
+        "games_rostered": 14,
+        "games_started": 13,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "Jack, Robin, Harry and Sons",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          }
+        ],
+        "ppg_started": 24.95
+      },
+      {
+        "year": 2020,
+        "player_id": 14881,
+        "player_name": "Russell Wilson",
+        "position": "QB",
+        "total_points": 298.56,
+        "starting_points": 298.56,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 12,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 24.88
+      },
+      {
+        "year": 2023,
+        "player_id": 3918298,
+        "player_name": "Josh Allen",
+        "position": "QB",
+        "total_points": 321.28,
+        "starting_points": 321.28,
+        "bench_points": 0.0,
+        "games_rostered": 14,
+        "games_started": 13,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "Pls Trade Me Thick Necks",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          }
+        ],
+        "ppg_started": 24.71
+      },
+      {
+        "year": 2020,
+        "player_id": 3918298,
+        "player_name": "Josh Allen",
+        "position": "QB",
+        "total_points": 296.02,
+        "starting_points": 296.02,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 12,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 7,
+            "team_name": "Team Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          }
+        ],
+        "ppg_started": 24.67
+      },
+      {
+        "year": 2023,
+        "player_id": 2577417,
+        "player_name": "Dak Prescott",
+        "position": "QB",
+        "total_points": 232.16,
+        "starting_points": 197.2,
+        "bench_points": 34.96,
+        "games_rostered": 10,
+        "games_started": 8,
+        "games_benched": 2,
+        "fantasy_teams": [
+          {
+            "team_id": 5,
+            "team_name": "Bijan Mustard",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          }
+        ],
+        "ppg_started": 24.65
+      },
+      {
+        "year": 2025,
+        "player_id": 3918298,
+        "player_name": "Josh Allen",
+        "position": "QB",
+        "total_points": 320.02,
+        "starting_points": 320.02,
+        "bench_points": 0.0,
+        "games_rostered": 14,
+        "games_started": 13,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "Lily Phillips ",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          }
+        ],
+        "ppg_started": 24.62
+      }
+    ],
+    "worst_starter_ppg": [
+      {
+        "year": 2019,
+        "player_id": 9704,
+        "player_name": "Stephen Gostkowski",
+        "position": "K",
+        "total_points": 32.0,
+        "starting_points": 32.0,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 10,
+        "games_benched": 3,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "Finna Win This  Year Ya Diggs?",
+            "owner_ids": [
+              "{96349FBC-DBBD-4841-B49F-BCDBBD9841B6}"
+            ],
+            "owner_names": [
+              "Jeremy Isaacs"
+            ]
+          }
+        ],
+        "ppg_started": 3.2
+      },
+      {
+        "year": 2020,
+        "player_id": 3050478,
+        "player_name": "Jake Elliott",
+        "position": "K",
+        "total_points": 55.0,
+        "starting_points": 55.0,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 13,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "50 Feet  Of Crap",
+            "owner_ids": [
+              "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+            ],
+            "owner_names": [
+              "Dylan Campbell"
+            ]
+          }
+        ],
+        "ppg_started": 4.23
+      },
+      {
+        "year": 2020,
+        "player_id": -16025,
+        "player_name": "49ers D/ST",
+        "position": "D/ST",
+        "total_points": 39.0,
+        "starting_points": 39.0,
+        "bench_points": 0.0,
+        "games_rostered": 9,
+        "games_started": 9,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "50 Feet  Of Crap",
+            "owner_ids": [
+              "{5431883D-E365-4401-97B9-DAD7EC2156AD}"
+            ],
+            "owner_names": [
+              "Dylan Campbell"
+            ]
+          }
+        ],
+        "ppg_started": 4.33
+      },
+      {
+        "year": 2025,
+        "player_id": 3116365,
+        "player_name": "Mark Andrews",
+        "position": "TE",
+        "total_points": 69.5,
+        "starting_points": 30.7,
+        "bench_points": 38.8,
+        "games_rostered": 12,
+        "games_started": 7,
+        "games_benched": 5,
+        "fantasy_teams": [
+          {
+            "team_id": 5,
+            "team_name": "McConkey Kong",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          },
+          {
+            "team_id": 7,
+            "team_name": "Los Peloteros De Katz",
+            "owner_ids": [
+              "{ECD9E4C2-4E30-4915-AC59-6C1700E34A69}"
+            ],
+            "owner_names": [
+              "Ben Katz"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Jake and Seth",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}",
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer",
+              "Seth Taratoot"
+            ]
+          }
+        ],
+        "ppg_started": 4.39
+      },
+      {
+        "year": 2022,
+        "player_id": 4360248,
+        "player_name": "Kyle Pitts",
+        "position": "TE",
+        "total_points": 61.6,
+        "starting_points": 35.7,
+        "bench_points": 25.9,
+        "games_rostered": 11,
+        "games_started": 8,
+        "games_benched": 3,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "I Am Inevitable",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 4.46
+      },
+      {
+        "year": 2019,
+        "player_id": 3124084,
+        "player_name": "Joey Slye",
+        "position": "K",
+        "total_points": 28.0,
+        "starting_points": 28.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "Deshaun of The Dead",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 5,
+            "team_name": "Wraith Talk",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          }
+        ],
+        "ppg_started": 4.67
+      },
+      {
+        "year": 2019,
+        "player_id": 16725,
+        "player_name": "Sammy Watkins",
+        "position": "WR",
+        "total_points": 92.0,
+        "starting_points": 49.7,
+        "bench_points": 42.3,
+        "games_rostered": 13,
+        "games_started": 10,
+        "games_benched": 3,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "Finna Win This  Year Ya Diggs?",
+            "owner_ids": [
+              "{96349FBC-DBBD-4841-B49F-BCDBBD9841B6}"
+            ],
+            "owner_names": [
+              "Jeremy Isaacs"
+            ]
+          }
+        ],
+        "ppg_started": 4.97
+      },
+      {
+        "year": 2022,
+        "player_id": 3918639,
+        "player_name": "Gerald Everett",
+        "position": "TE",
+        "total_points": 45.9,
+        "starting_points": 45.9,
+        "bench_points": 0.0,
+        "games_rostered": 10,
+        "games_started": 9,
+        "games_benched": 1,
+        "fantasy_teams": [
+          {
+            "team_id": 9,
+            "team_name": "Saquads squad  Ship",
+            "owner_ids": [
+              "{8D1E7E24-92F1-49FC-ADF1-C8193EA1C44E}"
+            ],
+            "owner_names": [
+              "Adam Heckelman"
+            ]
+          }
+        ],
+        "ppg_started": 5.1
+      },
+      {
+        "year": 2025,
+        "player_id": 11122,
+        "player_name": "Matt Prater",
+        "position": "K",
+        "total_points": 36.0,
+        "starting_points": 36.0,
+        "bench_points": 0.0,
+        "games_rostered": 7,
+        "games_started": 7,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "2 Browns 2 Felonies",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          },
+          {
+            "team_id": 1,
+            "team_name": "Lily Phillips ",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 3,
+            "team_name": "Diggs in a Blankets",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          }
+        ],
+        "ppg_started": 5.14
+      },
+      {
+        "year": 2019,
+        "player_id": -16030,
+        "player_name": "Jaguars D/ST",
+        "position": "D/ST",
+        "total_points": 69.0,
+        "starting_points": 69.0,
+        "bench_points": 0.0,
+        "games_rostered": 13,
+        "games_started": 13,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 11,
+            "team_name": "Finna Win This  Year Ya Diggs?",
+            "owner_ids": [
+              "{96349FBC-DBBD-4841-B49F-BCDBBD9841B6}"
+            ],
+            "owner_names": [
+              "Jeremy Isaacs"
+            ]
+          }
+        ],
+        "ppg_started": 5.31
+      },
+      {
+        "year": 2025,
+        "player_id": 15818,
+        "player_name": "Keenan Allen",
+        "position": "WR",
+        "total_points": 119.9,
+        "starting_points": 37.3,
+        "bench_points": 82.6,
+        "games_rostered": 14,
+        "games_started": 7,
+        "games_benched": 7,
+        "fantasy_teams": [
+          {
+            "team_id": 3,
+            "team_name": "Diggs in a Blankets",
+            "owner_ids": [
+              "{6EB109A3-B9E1-4D2D-B109-A3B9E10D2D41}"
+            ],
+            "owner_names": [
+              "Stefan Lachkar"
+            ]
+          }
+        ],
+        "ppg_started": 5.33
+      },
+      {
+        "year": 2019,
+        "player_id": -16010,
+        "player_name": "Titans D/ST",
+        "position": "D/ST",
+        "total_points": 32.0,
+        "starting_points": 32.0,
+        "bench_points": 0.0,
+        "games_rostered": 6,
+        "games_started": 6,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 1,
+            "team_name": "Deshaun of The Dead",
+            "owner_ids": [
+              "{3A1A4E24-2A98-4038-9A4E-242A98803865}"
+            ],
+            "owner_names": [
+              "Bennett Schiff"
+            ]
+          },
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Ben Goldstein"
+            ]
+          },
+          {
+            "team_id": 2,
+            "team_name": "Process Trusters",
+            "owner_ids": [
+              "{4F3E4D57-5F87-4D74-92C0-40815B7DFD51}"
+            ],
+            "owner_names": [
+              "Jake Fischer"
+            ]
+          }
+        ],
+        "ppg_started": 5.33
+      },
+      {
+        "year": 2026,
+        "player_id": -16014,
+        "player_name": "Rams D/ST",
+        "position": "D/ST",
+        "total_points": 48.0,
+        "starting_points": 38.0,
+        "bench_points": 10.0,
+        "games_rostered": 9,
+        "games_started": 7,
+        "games_benched": 2,
+        "fantasy_teams": [
+          {
+            "team_id": 12,
+            "team_name": "Run CMC ft. Omarion",
+            "owner_ids": [
+              "{B792F7C9-61CE-4E29-940C-DC1C5E6C4208}"
+            ],
+            "owner_names": [
+              "Ryan Vader"
+            ]
+          }
+        ],
+        "ppg_started": 5.43
+      },
+      {
+        "year": 2025,
+        "player_id": 4036133,
+        "player_name": "T.J. Hockenson",
+        "position": "TE",
+        "total_points": 44.3,
+        "starting_points": 44.3,
+        "bench_points": 0.0,
+        "games_rostered": 8,
+        "games_started": 8,
+        "games_benched": 0,
+        "fantasy_teams": [
+          {
+            "team_id": 6,
+            "team_name": "Nude Egg",
+            "owner_ids": [
+              "{429F0506-3667-4F0B-A2ED-1761D0A3F682}"
+            ],
+            "owner_names": [
+              "Ben Wolbransky"
+            ]
+          },
+          {
+            "team_id": 5,
+            "team_name": "McConkey Kong",
+            "owner_ids": [
+              "{BDC02B8B-DDC4-464E-B2E9-065DF145DDBB}"
+            ],
+            "owner_names": [
+              "Jonathan Coopersmith"
+            ]
+          }
+        ],
+        "ppg_started": 5.54
+      },
+      {
+        "year": 2025,
+        "player_id": 4361529,
+        "player_name": "Isiah Pacheco",
+        "position": "RB",
+        "total_points": 62.0,
+        "starting_points": 44.5,
+        "bench_points": 17.5,
+        "games_rostered": 14,
+        "games_started": 8,
+        "games_benched": 6,
+        "fantasy_teams": [
+          {
+            "team_id": 10,
+            "team_name": "Team Goldstein",
+            "owner_ids": [
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}",
+              "{CBF6473A-C5A3-46D7-8EF8-BFAF0D868891}"
+            ],
+            "owner_names": [
+              "Jordan Klein",
+              "Ben Goldstein"
+            ]
+          }
+        ],
+        "ppg_started": 5.56
+      }
+    ],
+    "minimum_starts": 6
   }
 }

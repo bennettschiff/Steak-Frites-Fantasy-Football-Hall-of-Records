@@ -20,10 +20,6 @@ export type PlayerRecordBookData = Pick<
 >;
 
 export default function PlayerRecordsSections({ players }: { players: PlayerRecordBookData }) {
-  const seasonsWithMvp = Object.keys(players.mvps_by_season)
-    .map(Number)
-    .sort((a, b) => b - a);
-
   return (
     <>
       <Section
@@ -44,6 +40,24 @@ export default function PlayerRecordsSections({ players }: { players: PlayerReco
         </div>
       </Section>
 
+      <Section
+        eyebrow="Lineup Decisions"
+        title="Bench nightmares and carry jobs"
+        subtitle="The eruptions stranded on the bench, and the starters who supplied the biggest share of a team score."
+      >
+        <div className="grid gap-4 lg:grid-cols-2">
+          <PlayerRecordTable rows={players.biggest_bench_scores} title="Most points left on the bench" />
+          <PlayerRecordTable rows={players.biggest_carry_jobs} title="Biggest one-player carry jobs" metric="share" />
+        </div>
+      </Section>
+
+    </>
+  );
+}
+
+export function PlayerSeasonHistory({ players }: { players: PlayerRecordBookData }) {
+  const seasonsWithMvp = Object.keys(players.mvps_by_season).map(Number).sort((a, b) => b - a);
+  return (<>
       <Section
         eyebrow="Hardware"
         title="Season MVPs"
@@ -92,6 +106,18 @@ export default function PlayerRecordsSections({ players }: { players: PlayerReco
       </Section>
 
       <Section
+        eyebrow="Lucky Charms"
+        title="Most often on winning rosters"
+        subtitle="Players whose starting weeks were most likely to coincide with a win."
+      >
+        <WinningRosterTable rows={players.winning_team_appearances} />
+      </Section>
+  </>);
+}
+
+export function OpeningWeekPlayers({ players }: { players: PlayerRecordBookData }) {
+  return (<>
+      <Section
         eyebrow="Opening Bell"
         title="Week 1 player records"
         subtitle={`The highest opening-week starter scores since box-score coverage began in ${players.coverage.first_year_with_box_scores}.`}
@@ -99,26 +125,7 @@ export default function PlayerRecordsSections({ players }: { players: PlayerReco
         <PlayerRecordTable rows={players.opening_week_top} title="Highest opening-week player scores" />
       </Section>
 
-      <Section
-        eyebrow="Lineup Decisions"
-        title="Bench nightmares and carry jobs"
-        subtitle="The eruptions stranded on the bench, and the starters who supplied the biggest share of a team score."
-      >
-        <div className="grid gap-4 lg:grid-cols-2">
-          <PlayerRecordTable rows={players.biggest_bench_scores} title="Most points left on the bench" />
-          <PlayerRecordTable rows={players.biggest_carry_jobs} title="Biggest one-player carry jobs" metric="share" />
-        </div>
-      </Section>
-
-      <Section
-        eyebrow="Lucky Charms"
-        title="Most often on winning rosters"
-        subtitle="Players whose starting weeks were most likely to coincide with a win."
-      >
-        <WinningRosterTable rows={players.winning_team_appearances} />
-      </Section>
-    </>
-  );
+  </>);
 }
 
 function MvpCell({ label, mvp, runners, variant, championTeam }: {

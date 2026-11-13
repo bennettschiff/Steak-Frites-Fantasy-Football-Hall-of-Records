@@ -9,12 +9,14 @@ import StreakTable from "./StreakTable";
 import TeamGameTable from "./TeamGameTable";
 
 const TABS = [
-  { id: "week-one", label: "Week 1", description: "Opening-week highs and lows" },
   { id: "single-week", label: "Single Week", description: "Regular-season game records" },
+  { id: "season", label: "Season", description: "Single-season team records" },
+  { id: "nfl-players", label: "NFL Player Single Week", description: "Starter and bench explosions" },
+  { id: "nfl-player-season", label: "NFL Player Season", description: "Regular-season player totals and lineup decisions" },
   { id: "playoffs", label: "Playoffs", description: "Winners-bracket performances" },
   { id: "championship", label: "Championship", description: "Title-game history" },
-  { id: "nfl-players", label: "NFL Players", description: "Starter and bench explosions" },
-  { id: "seasons", label: "Seasons", description: "Full-season marks and streaks" },
+  { id: "seasons", label: "Seasons", description: "Season MVPs, winning rosters and streaks" },
+  { id: "week-one", label: "Week 1", description: "Opening-week highs and lows" },
 ] as const;
 
 type TabId = (typeof TABS)[number]["id"];
@@ -34,11 +36,17 @@ type RecordBookData = Pick<
 export default function RecordBookTabs({
   records,
   playerContent,
+  playerSeasonContent,
+  seasonHistoryContent,
+  openingPlayerContent,
 }: {
   records: RecordBookData;
   playerContent: ReactNode;
+  playerSeasonContent: ReactNode;
+  seasonHistoryContent: ReactNode;
+  openingPlayerContent: ReactNode;
 }) {
-  const [activeTab, setActiveTab] = useState<TabId>("week-one");
+  const [activeTab, setActiveTab] = useState<TabId>("single-week");
   const tabListRef = useRef<HTMLDivElement>(null);
   const active = TABS.find((tab) => tab.id === activeTab) ?? TABS[0];
 
@@ -56,8 +64,12 @@ export default function RecordBookTabs({
   }, []);
 
   useEffect(() => {
-    const selectedTab = tabListRef.current?.querySelector<HTMLElement>("[role='tab'][aria-selected='true']");
-    selectedTab?.scrollIntoView({ block: "nearest", inline: "center" });
+    const list = tabListRef.current;
+    const selectedTab = list?.querySelector<HTMLElement>("[role='tab'][aria-selected='true']");
+    if (list && selectedTab) {
+      // Scroll only the tab strip, keeping the record-watch header in view.
+      list.scrollTo({ left: selectedTab.offsetLeft - list.offsetLeft - (list.clientWidth - selectedTab.clientWidth) / 2 });
+    }
   }, [activeTab]);
 
   function selectTab(tabId: TabId) {
@@ -127,16 +139,19 @@ export default function RecordBookTabs({
         className="space-y-10"
       >
         {activeTab === "week-one" && (
-          <Section
-            eyebrow="Opening Bell"
-            title="Week 1 extremes"
-            subtitle="The hottest and coldest team starts in league history."
-          >
-            <div className="grid gap-4 lg:grid-cols-2">
-              <TeamGameTable rows={records.opening_week_highest} title="Highest opening-week team scores" />
-              <TeamGameTable rows={records.opening_week_lowest} title="Lowest opening-week team scores" defaultDir="asc" />
-            </div>
-          </Section>
+          <>
+            <Section
+              eyebrow="Opening Bell"
+              title="Week 1 extremes"
+              subtitle="The hottest and coldest team starts in league history."
+            >
+              <div className="grid gap-4 lg:grid-cols-2">
+                <TeamGameTable rows={records.opening_week_highest} title="Highest opening-week team scores" />
+                <TeamGameTable rows={records.opening_week_lowest} title="Lowest opening-week team scores" defaultDir="asc" />
+              </div>
+            </Section>
+            {openingPlayerContent}
+          </>
         )}
 
         {activeTab === "single-week" && (
@@ -152,8 +167,9 @@ export default function RecordBookTabs({
         )}
 
         {activeTab === "nfl-players" && playerContent}
+        {activeTab === "nfl-player-season" && playerSeasonContent}
 
-        {activeTab === "seasons" && (
+        {activeTab === "season" && (
           <>
             <Section
               eyebrow="Season Marks"
@@ -167,6 +183,11 @@ export default function RecordBookTabs({
                 <SeasonTable rows={records.worst_season_ppg} title="Worst season PPG" valueKey="ppg" defaultDir="asc" />
               </div>
             </Section>
+          </>
+        )}
+        {activeTab === "seasons" && (
+          <>
+            {seasonHistoryContent}
             <Section eyebrow="Momentum" title="Streaks" subtitle="The longest runs of consecutive wins and losses.">
               <div className="grid gap-4 md:grid-cols-2">
                 <StreakTable title="Longest winning streaks" rows={records.streaks} kind="win" />

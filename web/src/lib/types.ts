@@ -393,7 +393,35 @@ export type SeasonMvp = {
   };
 };
 
+export type PlayerSeasonRecord = {
+  year: number;
+  player_id: number;
+  player_name: string;
+  position: string | null;
+  total_points: number;
+  starting_points: number;
+  bench_points: number;
+  games_rostered: number;
+  games_started: number;
+  games_benched: number;
+  ppg_started: number;
+  fantasy_teams: Array<{
+    team_id: number | null;
+    team_name: string | null;
+    owner_ids: string[];
+    owner_names: string[];
+  }>;
+};
+
 export type PlayerData = {
+  regular_season_records: {
+    top_by_position: Record<string, PlayerSeasonRecord[]>;
+    most_bench_points: PlayerSeasonRecord[];
+    lowest_starting_points: PlayerSeasonRecord[];
+    best_starter_ppg: PlayerSeasonRecord[];
+    worst_starter_ppg: PlayerSeasonRecord[];
+    minimum_starts: number;
+  };
   all_time_top_by_position: Record<string, PlayerPerformance[]>;
   season_top_by_position: Record<string, Record<string, PlayerPerformance[]>>;
   winning_team_appearances: WinningTeamLeader[];

@@ -2257,18 +2257,6 @@
       },
       {
         "team_id": 12,
-        "player_id": 4431431,
-        "player_name": "Corey Kiner",
-        "position": "RB",
-        "pro_team": "NE",
-        "base_round_this_year": null,
-        "origin": "free_agent",
-        "drafted_by_team_id": null,
-        "consecutive_keeper_years_through_current": 0,
-        "use_adp_next_year": false
-      },
-      {
-        "team_id": 12,
         "player_id": 4428718,
         "player_name": "Tre Tucker",
         "position": "WR",
@@ -2730,18 +2718,6 @@
         "position": "RB",
         "pro_team": "SEA",
         "base_round_this_year": 4,
-        "origin": "drafted",
-        "drafted_by_team_id": 2,
-        "consecutive_keeper_years_through_current": 0,
-        "use_adp_next_year": false
-      },
-      {
-        "team_id": 2,
-        "player_id": 4432708,
-        "player_name": "Marvin Harrison Jr.",
-        "position": "WR",
-        "pro_team": "HOU",
-        "base_round_this_year": 5,
         "origin": "drafted",
         "drafted_by_team_id": 2,
         "consecutive_keeper_years_through_current": 0,

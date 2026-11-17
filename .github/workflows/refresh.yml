@@ -1,14 +1,14 @@
 name: Refresh league data
 
 on:
-  # Start at 4:11am Eastern with 8:11am/noon catch-up runs. GitHub can delay
+  # Start at 7:11am Eastern with 8:11am/noon catch-up runs. GitHub can delay
   # or drop scheduled runs; one Tuesday trigger has proved insufficient.
   # Unchanged data preserves timestamps, so retries do not cause redeploys.
   # Cron has no DST; split EDT/EST by month and avoid the busy hour boundary.
   schedule:
-    - cron: "11 8,12,16 * 9,10 2"    # Sep-Oct — 4:11am, 8:11am, noon EDT
-    - cron: "11 9,13,17 * 11,12 2"   # Nov-Dec — 4:11am, 8:11am, noon EST
-    - cron: "11 9,13,17 * 1 2"       # Jan     — 4:11am, 8:11am, noon EST
+    - cron: "11 11,12,16 * 9,10 2"    # Sep-Oct — 7:11am, 8:11am, noon EDT
+    - cron: "11 12,13,17 * 11,12 2"   # Nov-Dec — 7:11am, 8:11am, noon EST
+    - cron: "11 12,13,17 * 1 2"       # Jan     — 7:11am, 8:11am, noon EST
   # Allow manual runs
   workflow_dispatch:
     inputs:

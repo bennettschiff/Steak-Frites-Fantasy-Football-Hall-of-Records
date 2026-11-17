@@ -68,7 +68,7 @@ available for an explicit override.
 
 ## Weekly auto-refresh
 
-`.github/workflows/refresh.yml` starts every Tuesday at 4:11am Eastern during
+`.github/workflows/refresh.yml` starts every Tuesday at 7:11am Eastern during
 the season (September through January), with catch-up runs at 8:11am and
 12:11pm. GitHub schedules can be delayed or dropped, so these are multiple
 opportunities to publish the final week's matchups rather than a timing guarantee:
